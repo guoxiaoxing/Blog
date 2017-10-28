@@ -1,4 +1,4 @@
-# <img src="https://github.com/guoxiaoxing/LarkFragment/raw/master/art/project_logo.png" alt="LarkFragment" width="40" height="40" align="bottom" /> LarkFragment
+# <img src="https://github.com/guoxiaoxing/LarkFragment/raw/master/art/project_logo.png" alt="LarkFragment" width="60" height="60" align="bottom" /> LarkFragment
 
 ## 功能介绍
 
